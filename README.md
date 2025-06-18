@@ -62,7 +62,7 @@ I believe in writing clean, efficient code and telling compelling stories with d
 
 - ✉️ deepak.ds@example.com  
 - 🔗 [GitHub](https://github.com/deepakds)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/deepak-ds/) <!-- optional, add if exists -->
+- 🔗 [LinkedIn](https://www.linkedin.com/feed/) <!-- optional, add if exists -->
 
 ---
 
